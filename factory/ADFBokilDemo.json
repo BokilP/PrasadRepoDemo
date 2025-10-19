@@ -1,0 +1,9 @@
+{
+	"name": "ADFBokilDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a7e9791-28bb-4e93-b725-ae34a9cec9e4",
+		"tenantId": "fb87a22b-ce21-45cf-8d84-a4c14ba415cb"
+	}
+}
